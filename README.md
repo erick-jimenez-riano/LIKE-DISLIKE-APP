@@ -41,7 +41,7 @@ Antes de comenzar, asegúrate de tener los siguientes programas instalados en tu
 3. **En la carpeta del proyecto que descargaste utiliza el cmd para ejecutar el comando "npm install concurrently --save-dev"
    este  comando permite ejecutar el servidor del frontend y el backend en simultaneo.**
 4. **Porterior a esto debes ejecutar el siguiente codigo enla CMD(la ventanita negra que habias abierto hace un rato)
-    npm run start-all si estoy no funciona debes ejecutar el codigo "npm start"
+    npm start
 5.  Eso abrirá tu navegador con la aplicacion, si no te abre automaticamente en tu navegador de preferencia pondras la sigueinte direccion http://localhost:3000/ y se ejecutara la aplicación
 
 Comparte y disfruta con aprecio Erick Jimenez 
