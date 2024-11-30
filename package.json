@@ -1,0 +1,14 @@
+{
+    "name": "mi-proyecto",
+    "version": "1.0.0",
+    "description": "Un proyecto con frontend y backend",
+    "main": "index.js",
+    "scripts": {
+        "start": "concurrently \"npm run start-frontend\" \"npm run start-backend\"",
+        "start-frontend": "cd frontend && npm install && npm start",
+        "start-backend": "cd backend && npm install && npm start"
+    },
+    "devDependencies": {
+        "concurrently": "^9.1.0"
+    }
+}
