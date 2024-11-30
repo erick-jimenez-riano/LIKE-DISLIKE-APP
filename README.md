@@ -19,6 +19,7 @@ Antes de comenzar, asegúrate de tener los siguientes programas instalados en tu
 
 2. **[MongoDB Atlas](https://www.mongodb.com/cloud/atlas)**: El proyecto usa **MongoDB Atlas** como base de datos en la nube. No necesitas tener MongoDB instalado localmente, solo debes crear una cuenta en MongoDB Atlas y obtener la URL de conexión a tu base de datos. Esta conexión está configurada en el archivo `.env` del proyecto.
 
+
 ## Pasos para Ejecutar el Proyecto
 
 ### 1. Descargar el Proyecto
@@ -37,9 +38,10 @@ Antes de comenzar, asegúrate de tener los siguientes programas instalados en tu
    Una vez que el repositorio esté clonado, navega a la carpeta `repositorio` que contiene las subcarpetas `frontend` y `backend`:
    ```bash
    cd tu_repositorio
-
-3. **Porterior a esto debes ejecutar el siguiente codigo enla CMD(la ventanita negra que habias abierto hace un rato)
+3. **En la carpeta del proyecto que descargaste utiliza el cmd para ejecutar el comando "npm install concurrently --save-dev"
+   este  comando permite ejecutar el servidor del frontend y el backend en simultaneo.**
+4. **Porterior a esto debes ejecutar el siguiente codigo enla CMD(la ventanita negra que habias abierto hace un rato)
     npm run start-all si estoy no funciona debes ejecutar el codigo "npm start"
-4.  Eso abrirá tu navegador con la aplicacion, si no te abre automaticamente en tu navegador de preferencia pondras la sigueinte direccion http://localhost:3000/ y se ejecutara la aplicación
+5.  Eso abrirá tu navegador con la aplicacion, si no te abre automaticamente en tu navegador de preferencia pondras la sigueinte direccion http://localhost:3000/ y se ejecutara la aplicación
 
 Comparte y disfruta con aprecio Erick Jimenez 
