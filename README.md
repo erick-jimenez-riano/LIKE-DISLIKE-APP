@@ -1,4 +1,4 @@
-# Proyecto de Aplicación Web con Node.js, React y MongoDB
+# Proyecto de Aplicación para Votar por tu Personaje Favorito, utilizando Node.js, React y Mongo Atlas
 
 Este es un proyecto de aplicación web donde los usuarios pueden votar por sus personajes favoritos de diferentes series. El proyecto está compuesto por dos partes:
 
